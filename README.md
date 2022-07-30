@@ -68,4 +68,4 @@ Have a look:
   <img src="https://github.com/ayush-206/IPL-2022-auction-data-analysis-project/blob/1c2004c35a04351a24157f19fb3089885a717718/participated%20players.PNG" alt="Participated players count" title="Participated players count">
 </p>
 
-                                                         Thank You
+Thank You
